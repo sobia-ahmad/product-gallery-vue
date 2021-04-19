@@ -1,5 +1,11 @@
 # vueapp
 
+I made these trainers look animated.
+https://sobia-ahmad.github.io/product-gallery-vue 
+
+
+
+
 ## Project setup
 ```
 npm install
